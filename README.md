@@ -1,5 +1,5 @@
 # Spectral Manor 1.0
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/FCOvLb064bo>
 ## Description:
 Spectral Manor 1.0 is a game I created to utilize my python knowledge and to give myself an introduction to game development and design. The finished game consist of 235 lines of code. I drew all of the art and used a song from YouTube's Audio Library.
 
